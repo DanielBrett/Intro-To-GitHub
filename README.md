@@ -1,6 +1,10 @@
 # Intro-To-GitHub
 
-What is your favorite animal?
+## This is size 2
+
+### This is size 3
+
+**What is your favorite animal?**
 
 Alligator
 
@@ -20,7 +24,7 @@ Lion
 
 Penguin
 
-Bearded dragons
+*Bearded dragons*
 
 Eagles
 
@@ -31,7 +35,7 @@ A Cat
 dolphin
 
 
+[Visible Text](https://www.google.ca/)
 
-
-
+![Image of Daniel and Lizard]()
 
