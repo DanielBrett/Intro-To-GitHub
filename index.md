@@ -1,4 +1,4 @@
-[Page 2](https://danielbrett.github.io/Intro-To-GitHub/Page2.md)
+[Page 2](https://danielbrett.github.io/Intro-To-GitHub/Page2)
 
 
 Here's a sentence with a footnote. [^1]
