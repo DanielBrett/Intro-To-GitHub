@@ -1,3 +1,5 @@
+[Page 2](https://danielbrett.github.io/Intro-To-GitHub/Page2.md)
+
 # Intro-To-GitHub
 
 ## This is size 2
