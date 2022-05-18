@@ -1,5 +1,10 @@
 [Page 2](https://danielbrett.github.io/Intro-To-GitHub/Page2.md)
 
+
+Here's a sentence with a footnote. [^1]
+
+
+
 # Intro-To-GitHub
 
 ## This is size 2
@@ -41,3 +46,8 @@ dolphin
 
 ![Image of Daniel and Lizard](Daniel_Headshot_Library.jpg)
 
+
+
+
+
+[^1]: This is the footnote.
