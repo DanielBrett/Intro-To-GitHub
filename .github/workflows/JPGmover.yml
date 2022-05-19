@@ -10,6 +10,7 @@ on:
   pull_request:
     paths: 
      - '**.jpg'
+  workflow_dispatch:
 
 jobs:
   move-jpg:
