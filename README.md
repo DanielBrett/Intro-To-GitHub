@@ -37,5 +37,4 @@ dolphin
 
 [Visible Text](https://www.google.ca/)
 
-![Image of Daniel and Lizard](Daniel_Headshot_Library.jpg)
 
